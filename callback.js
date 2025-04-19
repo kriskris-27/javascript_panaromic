@@ -21,14 +21,14 @@
 
 
 
-function outer(){
-    var a =10;
-    function inner(){
-        console.log(a);
-    }
-    return inner;
-}
+// function outer(){
+//     var a =10;
+//     function inner(){
+//         console.log(a);
+//     }
+//     return inner;
+// }
 
-outer()()
+// outer()()
 
 
