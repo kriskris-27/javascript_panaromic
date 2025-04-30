@@ -1,7 +1,3 @@
-function greeting(){
-    console.log("Hello kris")
+function login(){
+    
 }
-
-greeting()
-
-greeting()
