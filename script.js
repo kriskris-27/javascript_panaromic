@@ -4,4 +4,5 @@ function login(){
 function logout(){
     
 }
-const newFeature = () => {}
+console.log("new feature");
+//TODO
