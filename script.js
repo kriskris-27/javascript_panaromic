@@ -6,4 +6,5 @@ function logout(){
 }
 console.log("new feature");
 //TODO
-hi
+//everything seems fine 
+//now lets move back to the feat1 
